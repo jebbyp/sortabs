@@ -1,2 +1,4 @@
 # sortabs
-sort your chrome tabs by url
+An extension that sorts your chrome tabs by url
+
+
